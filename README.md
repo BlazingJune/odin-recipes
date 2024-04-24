@@ -1,0 +1,1 @@
+This project is meant to demonstrate how to make a passable website using knowledge I've learned in HTML. We might return to this project when more things are learned. 
